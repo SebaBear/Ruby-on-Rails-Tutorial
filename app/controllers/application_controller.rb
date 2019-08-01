@@ -5,5 +5,5 @@ class ApplicationController < ActionController::Base
   end
   def goodbye
     render html: "goodbye word!"
-  end
+  end #second push 
 end
